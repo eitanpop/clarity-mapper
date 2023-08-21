@@ -1,0 +1,11 @@
+﻿MSH|^~\&|EDISCHARGE|125715|||20190323074534||ADT^A08|604380692|P|2.3|||||||
+EVN|A08|20190319032433|||| 
+PID|1|643238442|||WASHINGTON^EMAJEAN^L||19631019115959|F||B|1233 ARKWOOD AVE^^COLUMBUS^OH^43227||(614)900-8865||ENG|Single|Christian|300049090032|||||||||||| 
+NK1|1|WASHINGTON^EMMITT(BROTHER/HCPOA)^|Sibling|^^^^|(614)772-1017|||||||||||||||||||||||||||||||| 
+NK1|2|BAKER^MARIAH^|^^^^||||||||||||||||||||||||||||||||| 
+PV1|1|I||ER|||433557^CHOI, JOSHUA|||EH1|||||||215129^CHUKWUNYERE, EMMANUEL|||CARE|||||||||||||||||||125715|||||20190306162829|||||||| 
+PV2|||||||||20190324105959|||||||||||||||||||||||||||| 
+DG1|1||100007|Leg Swelling|||||||||||1|||| DG1|2||28|Cough|||||||||||2|||| 
+IN1|1|121001||MOLINA MYCARE MEDICARE RX|PO BOX 22712^^LONG BEACH^CA^90801|^^|||STATE OF OHIO|||20181001000000||||WASHINGTON^EMAJEAN^|||^^^^|||1||||||||||||||200000048324||||||||||||| 
+ZED|altercare_outbound|yes|||||Briss^^Lynne^(614) 257-2568^(614) 257-3468^lynne.briss@osumc.edu^bris05@osumc||^ 
+ZPL|1|^|^|44702682|121292^Altercare of Hilliard Post-Acute Center, Inc.^4660 Trueman Blvd^^HILLIARD^OH^43026^(614) 771-4400^(614) 771-4474|1^Skilled Nursing Facility (SNF)^^^1^Skilled Nursing Facility (SNF)|1^Accept^20190319105833|1^Notified^20190307115310||Briss^^Lynne^(614) 257-2568^(614) 257-3468^lynne.briss@osumc.edu^bris05@osumc|Briss^^Lynne^(614) 257-2568^(614) 257-3468^lynne.briss@osumc.edu^bris05@osumc|20190307115310|Briss^^Lynne^(614) 257-2568^(614) 257-3468^lynne.briss@osumc.edu^bris05@osumc||COMMERCIAL|||||125715^OSUWMC East^181 Taylor Avenue^^COLUMBUS^OH^43203^(614) 257-3160^|249548427 

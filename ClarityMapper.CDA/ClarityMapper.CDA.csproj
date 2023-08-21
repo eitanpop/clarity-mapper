@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClarityMapper.Contracts\ClarityMapper.Contracts.csproj" />
+    <ProjectReference Include="..\ClarityMapper.DomainObjects\ClarityMapper.DomainObjects.csproj" />
+  </ItemGroup>
+
+</Project>

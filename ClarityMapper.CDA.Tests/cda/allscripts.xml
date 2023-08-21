@@ -1,0 +1,1449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OutboundDataFeed xmlns="http://www.extendedcare.com/XMLSchema" PatientCount="1" SendingSystem="Production" SendingFacility="ECIN" ReceivingFacility="Altercare of Mentor Center for Rehab" SourceFile="\\CIMCMG1-NASS001.CMG.PROD\CMGPRODF01SProv\4059\Temp\\OBFTransmitter\4059-1861-20200618-218824641.xml" GeneratedOn="6/18/2020 9:41:25 AM">
+   <Patient EcinRecordID="234968150" MajorVersion="4" MinorVersion="0" ECINMessageID="122525308" reason="ReferralReposted" HospitalName="Cleveland Clinic Hospitals" B2BCode="CCHS">
+      <HospitalName>Cleveland Clinic Hospitals</HospitalName>
+      <B2BCode>CCHS</B2BCode>
+      <SocialSecurityNumber>283767401</SocialSecurityNumber>
+      <MRN>HC451319</MRN>
+      <FirstName>ROBERT</FirstName>
+      <LastName>KINKOPF</LastName>
+      <Gender EcinRecordID="1">
+         <Code>M</Code>
+         <DisplayValue>Male</DisplayValue>
+      </Gender>
+      <ReligiousAffiliation>NONE</ReligiousAffiliation>
+      <Race>White</Race>
+      <DateOfBirth>
+         <EcinDate Timezone="CT">
+            <Date>1965-09-22</Date>
+         </EcinDate>
+      </DateOfBirth>
+      <MaritalStatus EcinRecordID="3">
+         <DisplayValue>Married</DisplayValue>
+         <Desription>Currently married</Desription>
+         <Code>M</Code>
+      </MaritalStatus>
+      <HomeAddress>
+         <Address EcinRecordID="1969613499">
+            <Address1>1333 WORTON BLVD</Address1>
+            <City>MAYFIELD HTS</City>
+            <State Code="OH" Name="Ohio" />
+            <ZipCode Full="44124" Short="44124" />
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-12</Date>
+                  <Time>23:22:56.563</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-18</Date>
+                  <Time>07:50:06.947</Time>
+               </EcinDate>
+            </Audit>
+         </Address>
+      </HomeAddress>
+      <HomePhoneNumber>
+         <PhoneNumber>
+            <Number>4406819868</Number>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-12</Date>
+                  <Time>23:22:56.583</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>Lynchk6</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-16</Date>
+                  <Time>09:26:10.153</Time>
+               </EcinDate>
+            </Audit>
+         </PhoneNumber>
+      </HomePhoneNumber>
+      <EmergencyContacts>
+         <Contact EcinRecordID="702164255" Sequence="1" Locked="false">
+            <FirstName>ROBERT</FirstName>
+            <LastName>KINKOPF (EC)</LastName>
+            <Relationship ECINRecordID="16">
+               <Name>Father</Name>
+               <B2BCode>PA</B2BCode>
+            </Relationship>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-12</Date>
+                  <Time>23:22:56.600</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-12</Date>
+                  <Time>23:22:56.600</Time>
+               </EcinDate>
+            </Audit>
+         </Contact>
+         <Contact EcinRecordID="702164256" Sequence="2" Locked="false">
+            <FirstName>KRISTEN</FirstName>
+            <LastName>KINKOPF (EC2)</LastName>
+            <Relationship ECINRecordID="34">
+               <Name>Spouse</Name>
+               <B2BCode>S</B2BCode>
+            </Relationship>
+            <Address EcinRecordID="1969613500">
+               <Address1>1333 WORTON BLVD</Address1>
+               <City>MAYFIELD HEIGHTS</City>
+               <State Code="OH" />
+               <ZipCode Full="44124" Short="44124" />
+               <Audit Type="created">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-12</Date>
+                     <Time>23:22:56.630</Time>
+                  </EcinDate>
+               </Audit>
+               <Audit Type="modified">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-12</Date>
+                     <Time>23:22:56.630</Time>
+                  </EcinDate>
+               </Audit>
+            </Address>
+            <HomePhone>
+               <PhoneNumber>
+                  <Number>2165713771</Number>
+                  <Audit Type="created">
+                     <UserName>B2B Feed System</UserName>
+                     <EcinDate Timezone="CT">
+                        <Date>2020-06-12</Date>
+                        <Time>23:22:56.643</Time>
+                     </EcinDate>
+                  </Audit>
+               </PhoneNumber>
+            </HomePhone>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-12</Date>
+                  <Time>23:22:56.643</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-12</Date>
+                  <Time>23:22:56.643</Time>
+               </EcinDate>
+            </Audit>
+         </Contact>
+         <Contact EcinRecordID="702164257" Sequence="3" Locked="false">
+            <FirstName>ROBERT</FirstName>
+            <LastName>KINKOPF (FTH)</LastName>
+            <Relationship ECINRecordID="16">
+               <Name>Father</Name>
+               <B2BCode>PA</B2BCode>
+            </Relationship>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-12</Date>
+                  <Time>23:22:56.673</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-12</Date>
+                  <Time>23:22:56.673</Time>
+               </EcinDate>
+            </Audit>
+         </Contact>
+      </EmergencyContacts>
+      <PatientAdmission EcinRecordID="454561338">
+         <HospitalAdmissionID>HC547589736</HospitalAdmissionID>
+         <AdmissionDate>
+            <EcinDate Timezone="CT">
+               <Date>2020-06-18</Date>
+               <Time>07:06:00.000</Time>
+            </EcinDate>
+         </AdmissionDate>
+         <ProjectedDischargeDate>
+            <EcinDate Timezone="CT">
+               <Date>2020-06-19</Date>
+               <Time>09:00:00.000</Time>
+            </EcinDate>
+         </ProjectedDischargeDate>
+         <PrimaryDiagnosis>medication concern</PrimaryDiagnosis>
+         <SecondaryDiagnosis>HAR: 31002275959</SecondaryDiagnosis>
+         <AdmitSource>Non-Health Care Facility from Home / Work</AdmitSource>
+         <NoFollowUpRequired>0</NoFollowUpRequired>
+         <Unit EcinRecordID="56092">
+            <Name>HCERL</Name>
+            <UnitB2BCode>HCERL</UnitB2BCode>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2018-10-26</Date>
+                  <Time>22:32:05.020</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-02-24</Date>
+                  <Time>09:24:25.673</Time>
+               </EcinDate>
+            </Audit>
+         </Unit>
+         <Bed EcinRecordID="601633">
+            <Name>ED-10</Name>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2018-10-26</Date>
+                  <Time>23:48:14.227</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-02-24</Date>
+                  <Time>10:09:57.970</Time>
+               </EcinDate>
+            </Audit>
+         </Bed>
+         <ServiceType EcinRecordID="49980">
+            <Name>EMER</Name>
+            <B2BCode>EMER</B2BCode>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2012-05-25</Date>
+                  <Time>14:41:52.050</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2012-05-25</Date>
+                  <Time>14:41:52.050</Time>
+               </EcinDate>
+            </Audit>
+         </ServiceType>
+         <Facility>
+            <Name>Hillcrest Hospital</Name>
+            <B2BCode>Hillcrest Hospital</B2BCode>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2011-10-04</Date>
+                  <Time>08:33:39.383</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>crisafj</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2019-10-22</Date>
+                  <Time>08:14:24.590</Time>
+               </EcinDate>
+            </Audit>
+         </Facility>
+         <PatientType EcinRecordID="7964">
+            <Name>Emergency</Name>
+            <B2BCode>E</B2BCode>
+            <MasterPatientTypeID>3</MasterPatientTypeID>
+            <MasterPatientTypeName>Emergency</MasterPatientTypeName>
+            <Audit Type="created">
+               <UserName>B2BFeed</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2011-06-07</Date>
+                  <Time>10:51:36.447</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>iosubj</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2014-03-13</Date>
+                  <Time>21:31:32.770</Time>
+               </EcinDate>
+            </Audit>
+         </PatientType>
+         <FinancialClass EcinRecordID="97338">
+            <Name>MEDICAID</Name>
+            <B2BCode>CAID</B2BCode>
+            <Audit Type="created">
+               <UserName>B2BFeed</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2011-06-07</Date>
+                  <Time>10:51:59.600</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>B2BFeed</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2011-06-07</Date>
+                  <Time>10:51:59.600</Time>
+               </EcinDate>
+            </Audit>
+         </FinancialClass>
+         <RequiresIsolation>0</RequiresIsolation>
+         <DischargeWasDelayed>0</DischargeWasDelayed>
+         <GuarantorContact>
+            <Contact EcinRecordID="702376855">
+               <FirstName>ROBERT</FirstName>
+               <LastName>KINKOPF</LastName>
+               <Relationship ECINRecordID="1">
+                  <Name>Self</Name>
+                  <B2BCode>ME</B2BCode>
+               </Relationship>
+               <Address EcinRecordID="1970199585">
+                  <Address1>1333 WORTON BLVD</Address1>
+                  <City>MAYFIELD HTS</City>
+                  <State Code="OH" />
+                  <ZipCode Full="44124" Short="44124" />
+                  <Audit Type="created">
+                     <UserName>B2B Feed System</UserName>
+                     <EcinDate Timezone="CT">
+                        <Date>2020-06-18</Date>
+                        <Time>07:06:56.040</Time>
+                     </EcinDate>
+                  </Audit>
+                  <Audit Type="modified">
+                     <UserName>B2B Feed System</UserName>
+                     <EcinDate Timezone="CT">
+                        <Date>2020-06-18</Date>
+                        <Time>07:50:06.970</Time>
+                     </EcinDate>
+                  </Audit>
+               </Address>
+               <HomePhone>
+                  <PhoneNumber>
+                     <Number>4406819868</Number>
+                     <Audit Type="created">
+                        <UserName>B2B Feed System</UserName>
+                        <EcinDate Timezone="CT">
+                           <Date>2020-06-18</Date>
+                           <Time>07:06:56.040</Time>
+                        </EcinDate>
+                     </Audit>
+                     <Audit Type="modified">
+                        <UserName>B2B Feed System</UserName>
+                        <EcinDate Timezone="CT">
+                           <Date>2020-06-18</Date>
+                           <Time>07:06:56.040</Time>
+                        </EcinDate>
+                     </Audit>
+                  </PhoneNumber>
+               </HomePhone>
+               <Audit Type="created">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-18</Date>
+                     <Time>07:06:56.040</Time>
+                  </EcinDate>
+               </Audit>
+               <Audit Type="modified">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-18</Date>
+                     <Time>07:06:56.040</Time>
+                  </EcinDate>
+               </Audit>
+            </Contact>
+         </GuarantorContact>
+         <IsReadmission Value="0" DisplayValue="No" />
+         <HeightCentimeters>173</HeightCentimeters>
+         <WeightGrams>69854</WeightGrams>
+         <MedicallyCleared>
+            <EcinDate Timezone="CT">
+               <Date>2020-06-19</Date>
+               <Time>00:00:00.000</Time>
+            </EcinDate>
+         </MedicallyCleared>
+         <Audit Type="created">
+            <UserName>B2B Feed System</UserName>
+            <EcinDate Timezone="CT">
+               <Date>2020-06-18</Date>
+               <Time>07:06:56.000</Time>
+            </EcinDate>
+         </Audit>
+         <Audit Type="modified">
+            <UserName>jwallin</UserName>
+            <EcinDate Timezone="CT">
+               <Date>2020-06-18</Date>
+               <Time>09:39:43.443</Time>
+            </EcinDate>
+         </Audit>
+         <Physicians>
+            <Physician EcinRecordID="2805348">
+               <Locked Value="" DisplayValue="No" />
+               <FirstName>CHRISTOPHER</FirstName>
+               <MiddleName>L</MiddleName>
+               <LastName>RANDOLPH</LastName>
+               <DoesRounds Value="1" DisplayValue="Yes" />
+               <DoctorID>37901</DoctorID>
+               <Role EcinRecordID="3">
+                  <Description>Attending Physician</Description>
+                  <Code>ATTENDING_PHYSICIAN</Code>
+               </Role>
+               <Comment />
+               <Audit Type="created">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-18</Date>
+                     <Time>07:08:25.427</Time>
+                  </EcinDate>
+               </Audit>
+               <Audit Type="modified">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-18</Date>
+                     <Time>07:08:25.427</Time>
+                  </EcinDate>
+               </Audit>
+            </Physician>
+            <Physician EcinRecordID="3070591">
+               <Locked Value="" DisplayValue="No" />
+               <FirstName>CRAIG</FirstName>
+               <MiddleName>M</MiddleName>
+               <LastName>HILEMAN</LastName>
+               <DoesRounds Value="1" DisplayValue="Yes" />
+               <DoctorID>614057</DoctorID>
+               <Role EcinRecordID="8">
+                  <Description>Primary Care Physician</Description>
+                  <Code>PRIMARY_CARE_PHYSICIAN</Code>
+               </Role>
+               <Comment />
+               <Audit Type="created">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-18</Date>
+                     <Time>07:06:56.043</Time>
+                  </EcinDate>
+               </Audit>
+               <Audit Type="modified">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-18</Date>
+                     <Time>07:06:56.043</Time>
+                  </EcinDate>
+               </Audit>
+            </Physician>
+         </Physicians>
+         <Payments>
+            <Payment ECINRecordID="1042673713" Sequence="1">
+               <Locked Value="0" DisplayValue="No" />
+               <IsPrimaryPaymentSource Value="1" DisplayValue="Yes" />
+               <IsSecondaryPaymentSource Value="0" DisplayValue="No" />
+               <PlanProviderName>OHIO MEDICAID</PlanProviderName>
+               <PlanNumber>103457776599</PlanNumber>
+               <PlanDescription>OHIO MEDICAID</PlanDescription>
+               <MemberID>103457776599</MemberID>
+               <FinancialClass EcinRecordID="97338">
+                  <Name>MEDICAID</Name>
+                  <Code>CAID</Code>
+                  <Audit Type="created">
+                     <UserName>B2BFeed</UserName>
+                     <EcinDate Timezone="CT">
+                        <Date>2011-06-07</Date>
+                        <Time>10:51:59.600</Time>
+                     </EcinDate>
+                  </Audit>
+                  <Audit Type="modified">
+                     <UserName>B2BFeed</UserName>
+                     <EcinDate Timezone="CT">
+                        <Date>2011-06-07</Date>
+                        <Time>10:51:59.600</Time>
+                     </EcinDate>
+                  </Audit>
+               </FinancialClass>
+               <PlanAddress>
+                  <Address EcinRecordID="1970199587">
+                     <Address1>PO BOX 1461</Address1>
+                     <City>COLUMBUS</City>
+                     <State Code="OH" />
+                     <ZipCode Full="43216" Short="43216" />
+                     <Audit Type="created">
+                        <UserName>B2B Feed System</UserName>
+                        <EcinDate Timezone="CT">
+                           <Date>2020-06-18</Date>
+                           <Time>07:06:56.083</Time>
+                        </EcinDate>
+                     </Audit>
+                     <Audit Type="modified">
+                        <UserName>B2B Feed System</UserName>
+                        <EcinDate Timezone="CT">
+                           <Date>2020-06-18</Date>
+                           <Time>07:06:56.083</Time>
+                        </EcinDate>
+                     </Audit>
+                  </Address>
+               </PlanAddress>
+               <Insured>
+                  <FirstName>ROBERT</FirstName>
+                  <LastName>KINKOPF</LastName>
+                  <InsuredDOB>
+                     <EcinDate Timezone="CT">
+                        <Date>1965-09-22</Date>
+                        <Time>00:00:00.000</Time>
+                     </EcinDate>
+                  </InsuredDOB>
+                  <InsuredSSN>283767401</InsuredSSN>
+                  <InsuredAddress>
+                     <Address EcinRecordID="1970199586">
+                        <Address1>1333 WORTON BLVD</Address1>
+                        <City>MAYFIELD HTS</City>
+                        <State Code="OH" />
+                        <ZipCode Full="44124" Short="44124" />
+                        <Audit Type="created">
+                           <UserName>B2B Feed System</UserName>
+                           <EcinDate Timezone="CT">
+                              <Date>2020-06-18</Date>
+                              <Time>07:06:56.080</Time>
+                           </EcinDate>
+                        </Audit>
+                        <Audit Type="modified">
+                           <UserName>B2B Feed System</UserName>
+                           <EcinDate Timezone="CT">
+                              <Date>2020-06-18</Date>
+                              <Time>08:56:38.917</Time>
+                           </EcinDate>
+                        </Audit>
+                     </Address>
+                  </InsuredAddress>
+               </Insured>
+               <Active>1</Active>
+               <PlanID>23050</PlanID>
+               <InsuranceCompanyID>23002</InsuranceCompanyID>
+               <Audit Type="created">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-18</Date>
+                     <Time>07:06:56.090</Time>
+                  </EcinDate>
+               </Audit>
+               <Audit Type="modified">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-18</Date>
+                     <Time>08:56:38.923</Time>
+                  </EcinDate>
+               </Audit>
+               <OriginalClaimNumber>22872934</OriginalClaimNumber>
+               <AutomaticRecoupment>0</AutomaticRecoupment>
+               <CoordOfBenefits>1</CoordOfBenefits>
+            </Payment>
+         </Payments>
+         <GeneralMedicalInfo EcinRecordID="253800797">
+            <PrimaryLanguage>ENGLISH</PrimaryLanguage>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-18</Date>
+                  <Time>07:06:56.030</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>jwallin</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-18</Date>
+                  <Time>09:39:43.443</Time>
+               </EcinDate>
+            </Audit>
+         </GeneralMedicalInfo>
+         <Allergies>
+            <AllergyNotesLocked Value="0" DisplayValue="No" />
+            <Notes>NO KNOWN ALLERGIES</Notes>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-18</Date>
+                  <Time>07:06:56.033</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>jwallin</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-18</Date>
+                  <Time>09:38:52.607</Time>
+               </EcinDate>
+            </Audit>
+         </Allergies>
+         <Medications>
+            <MedicationNotesLocked Value="0" DisplayValue="No" />
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-18</Date>
+                  <Time>07:06:56.033</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>jwallin</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-18</Date>
+                  <Time>09:38:52.607</Time>
+               </EcinDate>
+            </Audit>
+         </Medications>
+         <HistoryAndPhysical>
+            <HistoryAndPhysicalNotesLocked Value="0" DisplayValue="No" />
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-18</Date>
+                  <Time>07:06:56.033</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>jwallin</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-18</Date>
+                  <Time>09:38:52.607</Time>
+               </EcinDate>
+            </Audit>
+         </HistoryAndPhysical>
+         <LabResults />
+         <NotesAndConsults />
+         <RadiologyDiagnostics />
+         <Referral EcinRecordID="56702851">
+            <ReferralCreator EcinRecordID="1624950">
+               <LastName>Wallin</LastName>
+               <FirstName>John</FirstName>
+               <UserName>jwallin</UserName>
+            </ReferralCreator>
+            <Comment>This patient needs SNF.  Note he has his own suboxone and arrangements are made for subsequent doses.  He needs IV antibiotics.  I hope you can take him, what else do you need to consider this patient  Thanx John    Covid note now attached</Comment>
+            <AdmissionRequestStatus EcinRecordID="1">
+               <Description>Posted</Description>
+            </AdmissionRequestStatus>
+            <FirstActiveDate>
+               <EcinDate>
+                  <Date>2020-06-18</Date>
+                  <Time>09:28:40.377</Time>
+               </EcinDate>
+            </FirstActiveDate>
+            <LastPostedOn>
+               <EcinDate>
+                  <Date>2020-06-18</Date>
+                  <Time>09:28:40.377</Time>
+               </EcinDate>
+            </LastPostedOn>
+            <AdmissionRequestType EcinRecordID="0">
+               <Description>FullWizard</Description>
+            </AdmissionRequestType>
+            <ReferralType EcinRecordID="17061">
+               <Name>Skilled Nursing Facility</Name>
+               <Prefix>SNF</Prefix>
+            </ReferralType>
+            <InitialSender EcinRecordID="1624950">
+               <LastName>Wallin</LastName>
+               <FirstName>John</FirstName>
+               <UserName>jwallin</UserName>
+            </InitialSender>
+            <LastSender EcinRecordID="1624950">
+               <LastName>Wallin</LastName>
+               <FirstName>John</FirstName>
+               <UserName>jwallin</UserName>
+            </LastSender>
+            <OnlineNotifyThisUser EcinRecordID="1624950">
+               <LastName>Wallin</LastName>
+               <FirstName>John</FirstName>
+               <UserName>jwallin</UserName>
+            </OnlineNotifyThisUser>
+            <OfflineNotifyThisUser EcinRecordID="1624950">
+               <LastName>Wallin</LastName>
+               <FirstName>John</FirstName>
+               <UserName>jwallin</UserName>
+            </OfflineNotifyThisUser>
+            <FirstYesProvider EcinRecordID="274845">
+               <Name>Highland Pointe Health and Rehab</Name>
+               <NameAbbreviation>Highland Pointe Health &amp; Rehab</NameAbbreviation>
+               <Address>
+                  <Address1>402 Golf View Lane</Address1>
+                  <Address2>Highland Heights</Address2>
+                  <City>Highland Heights</City>
+               </Address>
+            </FirstYesProvider>
+            <FirstYesReceivedOn>
+               <EcinDate>
+                  <Date>2020-06-18</Date>
+                  <Time>09:30:28.803</Time>
+               </EcinDate>
+            </FirstYesReceivedOn>
+            <Recipients>
+               <Recipient EcinRecordID="4059" LegacyProviderID="37252">
+                  <Name>Altercare of Mentor Center for Rehab</Name>
+                  <NameAbbreviation />
+                  <Address>
+                     <Address1>9901 Johnnycake Ridge Rd</Address1>
+                     <City EcinRecordID="3348">Mentor</City>
+                     <State Code="OH" />
+                     <ZipCode Full="44060" Short="44060" />
+                     <CountyName EcinRecordID="1946">Lake</CountyName>
+                  </Address>
+                  <Contact>
+                     <FirstName>Roberta</FirstName>
+                     <LastName>Cain</LastName>
+                     <PhoneNumber>
+                        <Number>4403577900</Number>
+                     </PhoneNumber>
+                     <FaxNumber>
+                        <PhoneNumber>
+                           <Number>4403571538</Number>
+                        </PhoneNumber>
+                     </FaxNumber>
+                     <Email>roberta.cain@altercareonline.net</Email>
+                  </Contact>
+                  <ProviderFirstNotified>
+                     <EcinDate Timezone="CT">
+                        <Date>2020-06-18</Date>
+                        <Time>09:28:40.397</Time>
+                     </EcinDate>
+                  </ProviderFirstNotified>
+                  <ReferralDataLastSentOn>
+                     <EcinDate Timezone="CT">
+                        <Date>2020-06-18</Date>
+                        <Time>09:27:53.173</Time>
+                     </EcinDate>
+                  </ReferralDataLastSentOn>
+                  <IsRecipientISC>0</IsRecipientISC>
+                  <SendingUserOrgID>244155</SendingUserOrgID>
+                  <SendingUserOrgName>Cleveland Clinic Hospitals</SendingUserOrgName>
+                  <IsReferralUnMasked>1</IsReferralUnMasked>
+               </Recipient>
+            </Recipients>
+            <ProviderGroups />
+            <CustomFields />
+         </Referral>
+      </PatientAdmission>
+   </Patient>
+</OutboundDataFeed><?xml version="1.0" encoding="UTF-8"?>
+<OutboundDataFeed xmlns="http://www.extendedcare.com/XMLSchema" PatientCount="1" SendingSystem="Production" SendingFacility="ECIN" ReceivingFacility="Altercare of Mentor Center for Rehab" SourceFile="\\CIMCMG1-NASS001.CMG.PROD\CMGPRODF01SProv\4059\Temp\\OBFTransmitter\4059-1861-20200618-218824641.xml" GeneratedOn="6/18/2020 9:41:25 AM">
+   <Patient EcinRecordID="234968150" MajorVersion="4" MinorVersion="0" ECINMessageID="122525308" reason="ReferralReposted" HospitalName="Cleveland Clinic Hospitals" B2BCode="CCHS">
+      <HospitalName>Cleveland Clinic Hospitals</HospitalName>
+      <B2BCode>CCHS</B2BCode>
+      <SocialSecurityNumber>283767401</SocialSecurityNumber>
+      <MRN>HC451319</MRN>
+      <FirstName>ROBERT</FirstName>
+      <LastName>KINKOPF</LastName>
+      <Gender EcinRecordID="1">
+         <Code>M</Code>
+         <DisplayValue>Male</DisplayValue>
+      </Gender>
+      <ReligiousAffiliation>NONE</ReligiousAffiliation>
+      <Race>White</Race>
+      <DateOfBirth>
+         <EcinDate Timezone="CT">
+            <Date>1965-09-22</Date>
+         </EcinDate>
+      </DateOfBirth>
+      <MaritalStatus EcinRecordID="3">
+         <DisplayValue>Married</DisplayValue>
+         <Desription>Currently married</Desription>
+         <Code>M</Code>
+      </MaritalStatus>
+      <HomeAddress>
+         <Address EcinRecordID="1969613499">
+            <Address1>1333 WORTON BLVD</Address1>
+            <City>MAYFIELD HTS</City>
+            <State Code="OH" Name="Ohio" />
+            <ZipCode Full="44124" Short="44124" />
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-12</Date>
+                  <Time>23:22:56.563</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-18</Date>
+                  <Time>07:50:06.947</Time>
+               </EcinDate>
+            </Audit>
+         </Address>
+      </HomeAddress>
+      <HomePhoneNumber>
+         <PhoneNumber>
+            <Number>4406819868</Number>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-12</Date>
+                  <Time>23:22:56.583</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>Lynchk6</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-16</Date>
+                  <Time>09:26:10.153</Time>
+               </EcinDate>
+            </Audit>
+         </PhoneNumber>
+      </HomePhoneNumber>
+      <EmergencyContacts>
+         <Contact EcinRecordID="702164255" Sequence="1" Locked="false">
+            <FirstName>ROBERT</FirstName>
+            <LastName>KINKOPF (EC)</LastName>
+            <Relationship ECINRecordID="16">
+               <Name>Father</Name>
+               <B2BCode>PA</B2BCode>
+            </Relationship>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-12</Date>
+                  <Time>23:22:56.600</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-12</Date>
+                  <Time>23:22:56.600</Time>
+               </EcinDate>
+            </Audit>
+         </Contact>
+         <Contact EcinRecordID="702164256" Sequence="2" Locked="false">
+            <FirstName>KRISTEN</FirstName>
+            <LastName>KINKOPF (EC2)</LastName>
+            <Relationship ECINRecordID="34">
+               <Name>Spouse</Name>
+               <B2BCode>S</B2BCode>
+            </Relationship>
+            <Address EcinRecordID="1969613500">
+               <Address1>1333 WORTON BLVD</Address1>
+               <City>MAYFIELD HEIGHTS</City>
+               <State Code="OH" />
+               <ZipCode Full="44124" Short="44124" />
+               <Audit Type="created">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-12</Date>
+                     <Time>23:22:56.630</Time>
+                  </EcinDate>
+               </Audit>
+               <Audit Type="modified">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-12</Date>
+                     <Time>23:22:56.630</Time>
+                  </EcinDate>
+               </Audit>
+            </Address>
+            <HomePhone>
+               <PhoneNumber>
+                  <Number>2165713771</Number>
+                  <Audit Type="created">
+                     <UserName>B2B Feed System</UserName>
+                     <EcinDate Timezone="CT">
+                        <Date>2020-06-12</Date>
+                        <Time>23:22:56.643</Time>
+                     </EcinDate>
+                  </Audit>
+               </PhoneNumber>
+            </HomePhone>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-12</Date>
+                  <Time>23:22:56.643</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-12</Date>
+                  <Time>23:22:56.643</Time>
+               </EcinDate>
+            </Audit>
+         </Contact>
+         <Contact EcinRecordID="702164257" Sequence="3" Locked="false">
+            <FirstName>ROBERT</FirstName>
+            <LastName>KINKOPF (FTH)</LastName>
+            <Relationship ECINRecordID="16">
+               <Name>Father</Name>
+               <B2BCode>PA</B2BCode>
+            </Relationship>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-12</Date>
+                  <Time>23:22:56.673</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-12</Date>
+                  <Time>23:22:56.673</Time>
+               </EcinDate>
+            </Audit>
+         </Contact>
+      </EmergencyContacts>
+      <PatientAdmission EcinRecordID="454561338">
+         <HospitalAdmissionID>HC547589736</HospitalAdmissionID>
+         <AdmissionDate>
+            <EcinDate Timezone="CT">
+               <Date>2020-06-18</Date>
+               <Time>07:06:00.000</Time>
+            </EcinDate>
+         </AdmissionDate>
+         <ProjectedDischargeDate>
+            <EcinDate Timezone="CT">
+               <Date>2020-06-19</Date>
+               <Time>09:00:00.000</Time>
+            </EcinDate>
+         </ProjectedDischargeDate>
+         <PrimaryDiagnosis>medication concern</PrimaryDiagnosis>
+         <SecondaryDiagnosis>HAR: 31002275959</SecondaryDiagnosis>
+         <AdmitSource>Non-Health Care Facility from Home / Work</AdmitSource>
+         <NoFollowUpRequired>0</NoFollowUpRequired>
+         <Unit EcinRecordID="56092">
+            <Name>HCERL</Name>
+            <UnitB2BCode>HCERL</UnitB2BCode>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2018-10-26</Date>
+                  <Time>22:32:05.020</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-02-24</Date>
+                  <Time>09:24:25.673</Time>
+               </EcinDate>
+            </Audit>
+         </Unit>
+         <Bed EcinRecordID="601633">
+            <Name>ED-10</Name>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2018-10-26</Date>
+                  <Time>23:48:14.227</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-02-24</Date>
+                  <Time>10:09:57.970</Time>
+               </EcinDate>
+            </Audit>
+         </Bed>
+         <ServiceType EcinRecordID="49980">
+            <Name>EMER</Name>
+            <B2BCode>EMER</B2BCode>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2012-05-25</Date>
+                  <Time>14:41:52.050</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2012-05-25</Date>
+                  <Time>14:41:52.050</Time>
+               </EcinDate>
+            </Audit>
+         </ServiceType>
+         <Facility>
+            <Name>Hillcrest Hospital</Name>
+            <B2BCode>Hillcrest Hospital</B2BCode>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2011-10-04</Date>
+                  <Time>08:33:39.383</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>crisafj</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2019-10-22</Date>
+                  <Time>08:14:24.590</Time>
+               </EcinDate>
+            </Audit>
+         </Facility>
+         <PatientType EcinRecordID="7964">
+            <Name>Emergency</Name>
+            <B2BCode>E</B2BCode>
+            <MasterPatientTypeID>3</MasterPatientTypeID>
+            <MasterPatientTypeName>Emergency</MasterPatientTypeName>
+            <Audit Type="created">
+               <UserName>B2BFeed</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2011-06-07</Date>
+                  <Time>10:51:36.447</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>iosubj</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2014-03-13</Date>
+                  <Time>21:31:32.770</Time>
+               </EcinDate>
+            </Audit>
+         </PatientType>
+         <FinancialClass EcinRecordID="97338">
+            <Name>MEDICAID</Name>
+            <B2BCode>CAID</B2BCode>
+            <Audit Type="created">
+               <UserName>B2BFeed</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2011-06-07</Date>
+                  <Time>10:51:59.600</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>B2BFeed</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2011-06-07</Date>
+                  <Time>10:51:59.600</Time>
+               </EcinDate>
+            </Audit>
+         </FinancialClass>
+         <RequiresIsolation>0</RequiresIsolation>
+         <DischargeWasDelayed>0</DischargeWasDelayed>
+         <GuarantorContact>
+            <Contact EcinRecordID="702376855">
+               <FirstName>ROBERT</FirstName>
+               <LastName>KINKOPF</LastName>
+               <Relationship ECINRecordID="1">
+                  <Name>Self</Name>
+                  <B2BCode>ME</B2BCode>
+               </Relationship>
+               <Address EcinRecordID="1970199585">
+                  <Address1>1333 WORTON BLVD</Address1>
+                  <City>MAYFIELD HTS</City>
+                  <State Code="OH" />
+                  <ZipCode Full="44124" Short="44124" />
+                  <Audit Type="created">
+                     <UserName>B2B Feed System</UserName>
+                     <EcinDate Timezone="CT">
+                        <Date>2020-06-18</Date>
+                        <Time>07:06:56.040</Time>
+                     </EcinDate>
+                  </Audit>
+                  <Audit Type="modified">
+                     <UserName>B2B Feed System</UserName>
+                     <EcinDate Timezone="CT">
+                        <Date>2020-06-18</Date>
+                        <Time>07:50:06.970</Time>
+                     </EcinDate>
+                  </Audit>
+               </Address>
+               <HomePhone>
+                  <PhoneNumber>
+                     <Number>4406819868</Number>
+                     <Audit Type="created">
+                        <UserName>B2B Feed System</UserName>
+                        <EcinDate Timezone="CT">
+                           <Date>2020-06-18</Date>
+                           <Time>07:06:56.040</Time>
+                        </EcinDate>
+                     </Audit>
+                     <Audit Type="modified">
+                        <UserName>B2B Feed System</UserName>
+                        <EcinDate Timezone="CT">
+                           <Date>2020-06-18</Date>
+                           <Time>07:06:56.040</Time>
+                        </EcinDate>
+                     </Audit>
+                  </PhoneNumber>
+               </HomePhone>
+               <Audit Type="created">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-18</Date>
+                     <Time>07:06:56.040</Time>
+                  </EcinDate>
+               </Audit>
+               <Audit Type="modified">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-18</Date>
+                     <Time>07:06:56.040</Time>
+                  </EcinDate>
+               </Audit>
+            </Contact>
+         </GuarantorContact>
+         <IsReadmission Value="0" DisplayValue="No" />
+         <HeightCentimeters>173</HeightCentimeters>
+         <WeightGrams>69854</WeightGrams>
+         <MedicallyCleared>
+            <EcinDate Timezone="CT">
+               <Date>2020-06-19</Date>
+               <Time>00:00:00.000</Time>
+            </EcinDate>
+         </MedicallyCleared>
+         <Audit Type="created">
+            <UserName>B2B Feed System</UserName>
+            <EcinDate Timezone="CT">
+               <Date>2020-06-18</Date>
+               <Time>07:06:56.000</Time>
+            </EcinDate>
+         </Audit>
+         <Audit Type="modified">
+            <UserName>jwallin</UserName>
+            <EcinDate Timezone="CT">
+               <Date>2020-06-18</Date>
+               <Time>09:39:43.443</Time>
+            </EcinDate>
+         </Audit>
+         <Physicians>
+            <Physician EcinRecordID="2805348">
+               <Locked Value="" DisplayValue="No" />
+               <FirstName>CHRISTOPHER</FirstName>
+               <MiddleName>L</MiddleName>
+               <LastName>RANDOLPH</LastName>
+               <DoesRounds Value="1" DisplayValue="Yes" />
+               <DoctorID>37901</DoctorID>
+               <Role EcinRecordID="3">
+                  <Description>Attending Physician</Description>
+                  <Code>ATTENDING_PHYSICIAN</Code>
+               </Role>
+               <Comment />
+               <Audit Type="created">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-18</Date>
+                     <Time>07:08:25.427</Time>
+                  </EcinDate>
+               </Audit>
+               <Audit Type="modified">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-18</Date>
+                     <Time>07:08:25.427</Time>
+                  </EcinDate>
+               </Audit>
+            </Physician>
+            <Physician EcinRecordID="3070591">
+               <Locked Value="" DisplayValue="No" />
+               <FirstName>CRAIG</FirstName>
+               <MiddleName>M</MiddleName>
+               <LastName>HILEMAN</LastName>
+               <DoesRounds Value="1" DisplayValue="Yes" />
+               <DoctorID>614057</DoctorID>
+               <Role EcinRecordID="8">
+                  <Description>Primary Care Physician</Description>
+                  <Code>PRIMARY_CARE_PHYSICIAN</Code>
+               </Role>
+               <Comment />
+               <Audit Type="created">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-18</Date>
+                     <Time>07:06:56.043</Time>
+                  </EcinDate>
+               </Audit>
+               <Audit Type="modified">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-18</Date>
+                     <Time>07:06:56.043</Time>
+                  </EcinDate>
+               </Audit>
+            </Physician>
+         </Physicians>
+         <Payments>
+            <Payment ECINRecordID="1042673713" Sequence="1">
+               <Locked Value="0" DisplayValue="No" />
+               <IsPrimaryPaymentSource Value="1" DisplayValue="Yes" />
+               <IsSecondaryPaymentSource Value="0" DisplayValue="No" />
+               <PlanProviderName>OHIO MEDICAID</PlanProviderName>
+               <PlanNumber>103457776599</PlanNumber>
+               <PlanDescription>OHIO MEDICAID</PlanDescription>
+               <MemberID>103457776599</MemberID>
+               <FinancialClass EcinRecordID="97338">
+                  <Name>MEDICAID</Name>
+                  <Code>CAID</Code>
+                  <Audit Type="created">
+                     <UserName>B2BFeed</UserName>
+                     <EcinDate Timezone="CT">
+                        <Date>2011-06-07</Date>
+                        <Time>10:51:59.600</Time>
+                     </EcinDate>
+                  </Audit>
+                  <Audit Type="modified">
+                     <UserName>B2BFeed</UserName>
+                     <EcinDate Timezone="CT">
+                        <Date>2011-06-07</Date>
+                        <Time>10:51:59.600</Time>
+                     </EcinDate>
+                  </Audit>
+               </FinancialClass>
+               <PlanAddress>
+                  <Address EcinRecordID="1970199587">
+                     <Address1>PO BOX 1461</Address1>
+                     <City>COLUMBUS</City>
+                     <State Code="OH" />
+                     <ZipCode Full="43216" Short="43216" />
+                     <Audit Type="created">
+                        <UserName>B2B Feed System</UserName>
+                        <EcinDate Timezone="CT">
+                           <Date>2020-06-18</Date>
+                           <Time>07:06:56.083</Time>
+                        </EcinDate>
+                     </Audit>
+                     <Audit Type="modified">
+                        <UserName>B2B Feed System</UserName>
+                        <EcinDate Timezone="CT">
+                           <Date>2020-06-18</Date>
+                           <Time>07:06:56.083</Time>
+                        </EcinDate>
+                     </Audit>
+                  </Address>
+               </PlanAddress>
+               <Insured>
+                  <FirstName>ROBERT</FirstName>
+                  <LastName>KINKOPF</LastName>
+                  <InsuredDOB>
+                     <EcinDate Timezone="CT">
+                        <Date>1965-09-22</Date>
+                        <Time>00:00:00.000</Time>
+                     </EcinDate>
+                  </InsuredDOB>
+                  <InsuredSSN>283767401</InsuredSSN>
+                  <InsuredAddress>
+                     <Address EcinRecordID="1970199586">
+                        <Address1>1333 WORTON BLVD</Address1>
+                        <City>MAYFIELD HTS</City>
+                        <State Code="OH" />
+                        <ZipCode Full="44124" Short="44124" />
+                        <Audit Type="created">
+                           <UserName>B2B Feed System</UserName>
+                           <EcinDate Timezone="CT">
+                              <Date>2020-06-18</Date>
+                              <Time>07:06:56.080</Time>
+                           </EcinDate>
+                        </Audit>
+                        <Audit Type="modified">
+                           <UserName>B2B Feed System</UserName>
+                           <EcinDate Timezone="CT">
+                              <Date>2020-06-18</Date>
+                              <Time>08:56:38.917</Time>
+                           </EcinDate>
+                        </Audit>
+                     </Address>
+                  </InsuredAddress>
+               </Insured>
+               <Active>1</Active>
+               <PlanID>23050</PlanID>
+               <InsuranceCompanyID>23002</InsuranceCompanyID>
+               <Audit Type="created">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-18</Date>
+                     <Time>07:06:56.090</Time>
+                  </EcinDate>
+               </Audit>
+               <Audit Type="modified">
+                  <UserName>B2B Feed System</UserName>
+                  <EcinDate Timezone="CT">
+                     <Date>2020-06-18</Date>
+                     <Time>08:56:38.923</Time>
+                  </EcinDate>
+               </Audit>
+               <OriginalClaimNumber>22872934</OriginalClaimNumber>
+               <AutomaticRecoupment>0</AutomaticRecoupment>
+               <CoordOfBenefits>1</CoordOfBenefits>
+            </Payment>
+         </Payments>
+         <GeneralMedicalInfo EcinRecordID="253800797">
+            <PrimaryLanguage>ENGLISH</PrimaryLanguage>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-18</Date>
+                  <Time>07:06:56.030</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>jwallin</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-18</Date>
+                  <Time>09:39:43.443</Time>
+               </EcinDate>
+            </Audit>
+         </GeneralMedicalInfo>
+         <Allergies>
+            <AllergyNotesLocked Value="0" DisplayValue="No" />
+            <Notes>NO KNOWN ALLERGIES</Notes>
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-18</Date>
+                  <Time>07:06:56.033</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>jwallin</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-18</Date>
+                  <Time>09:38:52.607</Time>
+               </EcinDate>
+            </Audit>
+         </Allergies>
+         <Medications>
+            <MedicationNotesLocked Value="0" DisplayValue="No" />
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-18</Date>
+                  <Time>07:06:56.033</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>jwallin</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-18</Date>
+                  <Time>09:38:52.607</Time>
+               </EcinDate>
+            </Audit>
+         </Medications>
+         <HistoryAndPhysical>
+            <HistoryAndPhysicalNotesLocked Value="0" DisplayValue="No" />
+            <Audit Type="created">
+               <UserName>B2B Feed System</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-18</Date>
+                  <Time>07:06:56.033</Time>
+               </EcinDate>
+            </Audit>
+            <Audit Type="modified">
+               <UserName>jwallin</UserName>
+               <EcinDate Timezone="CT">
+                  <Date>2020-06-18</Date>
+                  <Time>09:38:52.607</Time>
+               </EcinDate>
+            </Audit>
+         </HistoryAndPhysical>
+         <LabResults />
+         <NotesAndConsults />
+         <RadiologyDiagnostics />
+         <Referral EcinRecordID="56702851">
+            <ReferralCreator EcinRecordID="1624950">
+               <LastName>Wallin</LastName>
+               <FirstName>John</FirstName>
+               <UserName>jwallin</UserName>
+            </ReferralCreator>
+            <Comment>This patient needs SNF.  Note he has his own suboxone and arrangements are made for subsequent doses.  He needs IV antibiotics.  I hope you can take him, what else do you need to consider this patient  Thanx John    Covid note now attached</Comment>
+            <AdmissionRequestStatus EcinRecordID="1">
+               <Description>Posted</Description>
+            </AdmissionRequestStatus>
+            <FirstActiveDate>
+               <EcinDate>
+                  <Date>2020-06-18</Date>
+                  <Time>09:28:40.377</Time>
+               </EcinDate>
+            </FirstActiveDate>
+            <LastPostedOn>
+               <EcinDate>
+                  <Date>2020-06-18</Date>
+                  <Time>09:28:40.377</Time>
+               </EcinDate>
+            </LastPostedOn>
+            <AdmissionRequestType EcinRecordID="0">
+               <Description>FullWizard</Description>
+            </AdmissionRequestType>
+            <ReferralType EcinRecordID="17061">
+               <Name>Skilled Nursing Facility</Name>
+               <Prefix>SNF</Prefix>
+            </ReferralType>
+            <InitialSender EcinRecordID="1624950">
+               <LastName>Wallin</LastName>
+               <FirstName>John</FirstName>
+               <UserName>jwallin</UserName>
+            </InitialSender>
+            <LastSender EcinRecordID="1624950">
+               <LastName>Wallin</LastName>
+               <FirstName>John</FirstName>
+               <UserName>jwallin</UserName>
+            </LastSender>
+            <OnlineNotifyThisUser EcinRecordID="1624950">
+               <LastName>Wallin</LastName>
+               <FirstName>John</FirstName>
+               <UserName>jwallin</UserName>
+            </OnlineNotifyThisUser>
+            <OfflineNotifyThisUser EcinRecordID="1624950">
+               <LastName>Wallin</LastName>
+               <FirstName>John</FirstName>
+               <UserName>jwallin</UserName>
+            </OfflineNotifyThisUser>
+            <FirstYesProvider EcinRecordID="274845">
+               <Name>Highland Pointe Health and Rehab</Name>
+               <NameAbbreviation>Highland Pointe Health &amp; Rehab</NameAbbreviation>
+               <Address>
+                  <Address1>402 Golf View Lane</Address1>
+                  <Address2>Highland Heights</Address2>
+                  <City>Highland Heights</City>
+               </Address>
+            </FirstYesProvider>
+            <FirstYesReceivedOn>
+               <EcinDate>
+                  <Date>2020-06-18</Date>
+                  <Time>09:30:28.803</Time>
+               </EcinDate>
+            </FirstYesReceivedOn>
+            <Recipients>
+               <Recipient EcinRecordID="4059" LegacyProviderID="37252">
+                  <Name>Altercare of Mentor Center for Rehab</Name>
+                  <NameAbbreviation />
+                  <Address>
+                     <Address1>9901 Johnnycake Ridge Rd</Address1>
+                     <City EcinRecordID="3348">Mentor</City>
+                     <State Code="OH" />
+                     <ZipCode Full="44060" Short="44060" />
+                     <CountyName EcinRecordID="1946">Lake</CountyName>
+                  </Address>
+                  <Contact>
+                     <FirstName>Roberta</FirstName>
+                     <LastName>Cain</LastName>
+                     <PhoneNumber>
+                        <Number>4403577900</Number>
+                     </PhoneNumber>
+                     <FaxNumber>
+                        <PhoneNumber>
+                           <Number>4403571538</Number>
+                        </PhoneNumber>
+                     </FaxNumber>
+                     <Email>roberta.cain@altercareonline.net</Email>
+                  </Contact>
+                  <ProviderFirstNotified>
+                     <EcinDate Timezone="CT">
+                        <Date>2020-06-18</Date>
+                        <Time>09:28:40.397</Time>
+                     </EcinDate>
+                  </ProviderFirstNotified>
+                  <ReferralDataLastSentOn>
+                     <EcinDate Timezone="CT">
+                        <Date>2020-06-18</Date>
+                        <Time>09:27:53.173</Time>
+                     </EcinDate>
+                  </ReferralDataLastSentOn>
+                  <IsRecipientISC>0</IsRecipientISC>
+                  <SendingUserOrgID>244155</SendingUserOrgID>
+                  <SendingUserOrgName>Cleveland Clinic Hospitals</SendingUserOrgName>
+                  <IsReferralUnMasked>1</IsReferralUnMasked>
+               </Recipient>
+            </Recipients>
+            <ProviderGroups />
+            <CustomFields />
+         </Referral>
+      </PatientAdmission>
+   </Patient>
+</OutboundDataFeed>
