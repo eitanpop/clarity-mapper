@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29806.167
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClarityAPI", "ClarityAPI\ClarityAPI.csproj", "{C8381D30-30BA-4788-860B-F9D71F1D4561}"
 EndProject
@@ -23,7 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClarityMapper.CDA", "Clarit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClarityMapper.CDA.Tests", "ClarityMapper.CDA.Tests\ClarityMapper.CDA.Tests.csproj", "{23E23B43-F043-4486-8ED4-BF0BB27A40BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClarityFunction", "ClarityFunction\ClarityFunction.csproj", "{09AE07BD-003A-4269-836B-AC6E2896E01B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClarityFunction", "ClarityFunction\ClarityFunction.csproj", "{09AE07BD-003A-4269-836B-AC6E2896E01B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CDA", "CDA", "{BE346EF4-C079-4556-AFE3-E4A982C4E198}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HL7", "HL7", "{201A574B-E61A-4A38-8834-9A08849DAE0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -78,6 +82,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DB8FC2C8-1F7F-44DC-A8D7-3D7901D9B117} = {201A574B-E61A-4A38-8834-9A08849DAE0D}
+		{8468B0A6-41C3-43CE-B184-D7E2E6E6B71D} = {201A574B-E61A-4A38-8834-9A08849DAE0D}
+		{041205BE-80A9-4E1F-B94B-9118CFDCC053} = {BE346EF4-C079-4556-AFE3-E4A982C4E198}
+		{23E23B43-F043-4486-8ED4-BF0BB27A40BF} = {BE346EF4-C079-4556-AFE3-E4A982C4E198}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0C2E118C-A2BC-4E2F-8195-3406B86BDE63}
