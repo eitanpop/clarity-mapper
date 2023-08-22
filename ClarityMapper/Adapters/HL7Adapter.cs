@@ -3,7 +3,7 @@
 namespace ClarityMapper.Adapters
 {
     /* The adapter exposes a "From" method for all input formats and then uses the factory to produce a parser to return the requested output data.
-       Adapters provide an input for external calls and parser provided the output to the requested format
+       Adapters provide an input for external calls and parser provided the output to the requested format. You know....just adapter type stuff.
     */
     public class HL7Adapter : IHL7Adapter
     {

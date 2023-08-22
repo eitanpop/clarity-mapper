@@ -28,7 +28,8 @@ namespace ClarityMapper.V2.Converters
 
         public IList<IFhirResource> RunMessageThroughPipeline(Message message)
         {
-            return _converters.Where(x => DoesConverterContainSegmentsInMessage(x, message))
+            return _converters
+                .Where(x => DoesConverterContainSegmentsInMessage(x, message))
                 .Select(converter => converter.ConvertToFhirResource(message))
                 .Where(fhirResource => fhirResource != null).ToList();
         }
